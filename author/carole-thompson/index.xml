@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carole Thompson | Hamed Alhoori</title>
+    <link>https://alhoori.github.io/author/carole-thompson/</link>
+      <atom:link href="https://alhoori.github.io/author/carole-thompson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carole Thompson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alhoori.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Carole Thompson</title>
+      <link>https://alhoori.github.io/author/carole-thompson/</link>
+    </image>
+    
+    <item>
+      <title>Digital Library Initiative: A Project for Educators in Qatar</title>
+      <link>https://alhoori.github.io/publication/myrna-2014-inroads/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/myrna-2014-inroads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evolution of Scholarly Digital Library Needs in an International Environment: Social Reference Management Systems and Qatar</title>
+      <link>https://alhoori.github.io/publication/alhoori-2013-icadl/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/alhoori-2013-icadl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

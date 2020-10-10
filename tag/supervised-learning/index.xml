@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;supervised learning&#34; | Hamed Alhoori</title>
+    <link>https://alhoori.github.io/tag/supervised-learning/</link>
+      <atom:link href="https://alhoori.github.io/tag/supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;supervised learning&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alhoori.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;supervised learning&#34;</title>
+      <link>https://alhoori.github.io/tag/supervised-learning/</link>
+    </image>
+    
+    <item>
+      <title>Shared Feelings: Understanding Facebook Reactions to Scholarly Articles</title>
+      <link>https://alhoori.github.io/publication/cole-2019-jcdl/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/cole-2019-jcdl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
