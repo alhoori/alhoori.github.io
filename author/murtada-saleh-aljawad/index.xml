@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murtada Saleh Aljawad | Hamed Alhoori</title>
+    <link>https://alhoori.github.io/author/murtada-saleh-aljawad/</link>
+      <atom:link href="https://alhoori.github.io/author/murtada-saleh-aljawad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Murtada Saleh Aljawad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alhoori.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Murtada Saleh Aljawad</title>
+      <link>https://alhoori.github.io/author/murtada-saleh-aljawad/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Effects of Acid Fracture Etching Patterns on Conductivity Estimation Using Machine Learning Techniques</title>
+      <link>https://alhoori.github.io/publication/desouky-2020-spe/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/desouky-2020-spe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Acid Fracture Conductivity Correlations Honoring Different Mineralogy and Etching Patterns</title>
+      <link>https://alhoori.github.io/publication/desouky-2020-acs-omega/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/desouky-2020-acs-omega/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

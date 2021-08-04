@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tarek Kanan | Hamed Alhoori</title>
+    <link>https://alhoori.github.io/author/tarek-kanan/</link>
+      <atom:link href="https://alhoori.github.io/author/tarek-kanan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tarek Kanan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alhoori.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tarek Kanan</title>
+      <link>https://alhoori.github.io/author/tarek-kanan/</link>
+    </image>
+    
+    <item>
+      <title>On the relationship between open access and altmetrics</title>
+      <link>https://alhoori.github.io/publication/alhoori-2015-open/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/alhoori-2015-open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Library Institute-seerq (elisq)</title>
+      <link>https://alhoori.github.io/publication/fox-2014-elisq/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/fox-2014-elisq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Library Initiative: A Project for Educators in Qatar</title>
+      <link>https://alhoori.github.io/publication/myrna-2014-inroads/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/myrna-2014-inroads/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

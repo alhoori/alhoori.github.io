@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;journal Ranking&#34; | Hamed Alhoori</title>
+    <link>https://alhoori.github.io/tag/journal-ranking/</link>
+      <atom:link href="https://alhoori.github.io/tag/journal-ranking/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;journal Ranking&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alhoori.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;journal Ranking&#34;</title>
+      <link>https://alhoori.github.io/tag/journal-ranking/</link>
+    </image>
+    
+    <item>
+      <title>Do altmetrics follow the crowd or does the crowd follow altmetrics?</title>
+      <link>https://alhoori.github.io/publication/alhoori-2014-jcdl/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/alhoori-2014-jcdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Social Reference Management Systems Predict a Ranking of Scholarly Venues?</title>
+      <link>https://alhoori.github.io/publication/alhoori-2013-tpdl/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/publication/alhoori-2013-tpdl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

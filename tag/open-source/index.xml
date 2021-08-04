@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source | Hamed Alhoori</title>
+    <link>https://alhoori.github.io/tag/open-source/</link>
+      <atom:link href="https://alhoori.github.io/tag/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <description>open source</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Oct 2019 08:29:29 -0400</lastBuildDate>
+    <image>
+      <url>https://alhoori.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>open source</title>
+      <link>https://alhoori.github.io/tag/open-source/</link>
+    </image>
+    
+    <item>
+      <title>My Project Name 2</title>
+      <link>https://alhoori.github.io/project/my-project-name-1/</link>
+      <pubDate>Sat, 05 Oct 2019 08:29:29 -0400</pubDate>
+      <guid>https://alhoori.github.io/project/my-project-name-1/</guid>
+      <description>&lt;h1 id=&#34;purpose&#34;&gt;Purpose&lt;/h1&gt;
+&lt;p&gt;A hobby I have picked up recently is growing succulents and cacti from seed.
+I have sown &lt;em&gt;Lithops&lt;/em&gt; and one batch of &lt;em&gt;Astrophytum&lt;/em&gt;, but still have a bunch more seeds ready for another batch.
+The goal of this app is to help me track their progress and keep notes on my husbandry.
+It records how many seed and when I sowed.
+Further, it tracks their germination rate over time and has a handy section where I can record my notes on the process.
+Finally, I can visually record their progress in a library of photos.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
