@@ -5,12 +5,37 @@
     <link>https://alhoori.github.io/</link>
       <atom:link href="https://alhoori.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Hamed Alhoori</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Aug 2021 08:29:29 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:26:33 +0000</lastBuildDate>
     <image>
       <url>https://alhoori.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hamed Alhoori</title>
       <link>https://alhoori.github.io/</link>
     </image>
+    
+    <item>
+      <title>Research Assistant positions</title>
+      <link>https://alhoori.github.io/post/research-assistant/</link>
+      <pubDate>Fri, 01 Dec 2023 00:26:33 +0000</pubDate>
+      <guid>https://alhoori.github.io/post/research-assistant/</guid>
+      <description>&lt;p&gt;I am looking for highly motivated and hard-working undergraduate and graduate (MS/PhD) students to work on exciting projects in Data Science, AI, Machine Learning, Text Analytics, and Social Media Mining. If you are interested, please send me your CV, transcripts, TOEFL and GRE scores (if applicable), and all other supporting documents. Please feel free to contact me if you have any questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congratulations to Abdul Rahman Shaikh, Ashiqur Rahman, and Miftahul Jannat Mokarrama on successfully defending their MS theses and beginning their PhD studies!</title>
+      <link>https://alhoori.github.io/post/murtuza/</link>
+      <pubDate>Fri, 20 Oct 2023 00:26:33 +0000</pubDate>
+      <guid>https://alhoori.github.io/post/murtuza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIU Big Ideas</title>
+      <link>https://alhoori.github.io/talk/niu/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://alhoori.github.io/talk/niu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identifying Reproducible Research Using Human-in-the-loop Machine Learning</title>
@@ -33,6 +58,8 @@
 &lt;a href=&#34;https://www.kellogg.northwestern.edu/faculty/uzzi/htm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brian Uzzi&lt;/a&gt; (PI, Northwestern University)&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/akhilpandey95&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Akhil Pandey&lt;/a&gt; PhD student&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://colinjbrown.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colin Brown&lt;/a&gt; PhD student&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://sites.google.com/view/murtuza&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mohammed Murtuza Shahzad Syed&lt;/a&gt; PhD student&lt;/li&gt;
 &lt;li&gt;
@@ -68,27 +95,10 @@
     </item>
     
     <item>
-      <title>Research Assistant positions</title>
-      <link>https://alhoori.github.io/post/research-assistant/</link>
-      <pubDate>Sun, 01 Aug 2021 00:26:33 +0000</pubDate>
-      <guid>https://alhoori.github.io/post/research-assistant/</guid>
-      <description>&lt;p&gt;I am looking for highly motivated and hard-working undergraduate and graduate (MS/PhD) students to work on exciting projects in Data Science, AI, Text Analytics, and Social Media Mining. If you are interested, please send me your CV, transcripts, TOEFL and GRE scores (if applicable), and all other supporting documents. Please feel free to contact me if you have any questions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Early indicators of scientific impact: Predicting citations with altmetrics</title>
       <link>https://alhoori.github.io/publication/akella-2021101128/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://alhoori.github.io/publication/akella-2021101128/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Congratulations to Murtuza Shahzad Syed for successfully defending his MS thesis and starting his PhD!</title>
-      <link>https://alhoori.github.io/post/murtuza/</link>
-      <pubDate>Sun, 20 Sep 2020 00:26:33 +0000</pubDate>
-      <guid>https://alhoori.github.io/post/murtuza/</guid>
       <description></description>
     </item>
     
@@ -101,7 +111,7 @@
     </item>
     
     <item>
-      <title>Congratulations to Cole Freeman for successfully defending his MS thesis!</title>
+      <title>Congratulations to Akhil Pandey for successfully defending his MS thesis and starting his PhD!</title>
       <link>https://alhoori.github.io/post/akhil/</link>
       <pubDate>Tue, 05 May 2020 00:26:33 +0000</pubDate>
       <guid>https://alhoori.github.io/post/akhil/</guid>
@@ -133,7 +143,7 @@
     </item>
     
     <item>
-      <title>Congratulations to Akhil Pandey for successfully defending his MS thesis and starting his PhD!</title>
+      <title>Congratulations to Cole Freeman for successfully defending his MS thesis!</title>
       <link>https://alhoori.github.io/post/cole/</link>
       <pubDate>Thu, 05 Dec 2019 00:26:33 +0000</pubDate>
       <guid>https://alhoori.github.io/post/cole/</guid>
